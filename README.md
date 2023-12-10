@@ -5,3 +5,11 @@ Install this module so you can running the tools
 ```
 pip install tkinter Pillow
 ```
+# Running the tools
+```
+python3 netscan.py
+``
+or in windows
+```
+python.exe netscan.py
+```
