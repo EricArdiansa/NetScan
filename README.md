@@ -1,5 +1,5 @@
 # NetScan
-Netscan is a network scanning tool i build using python language
+Netscan is a network scanning tool i build using python language to scanning open port on the target
 # Dependencies
 Install this module so you can running the tools
 ```
