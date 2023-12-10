@@ -16,6 +16,6 @@ python.exe netscan.py
 ```
 #Preview
 
-/image/image01
+/image/image01.png
 
 
