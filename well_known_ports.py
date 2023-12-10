@@ -1,4 +1,4 @@
-def port_diketahui():
+def get_well_known_ports():
     return{
                 1: "TCP Port Service Multiplexer (TCPMUX)",
         5: "Remote Job Entry (RJE)",
