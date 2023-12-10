@@ -8,7 +8,7 @@ pip install tkinter Pillow
 # Running the tools
 ```
 python3 netscan.py
-``
+```
 or in windows
 ```
 python.exe netscan.py
